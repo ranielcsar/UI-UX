@@ -45,7 +45,7 @@ Imagine o quão frustante seria navegar nessa barra de navegação se os links e
        Página inicial Produtos Promoção do dia Em alta              
 ```
 
-> comentário: o espaço deixa melhor a visualização de cada item e não atrapalha na leitura do pŕoximo item
+> * o espaço deixa melhor a visualização de cada item e não atrapalha na leitura do pŕoximo item
 
 <br>
 
