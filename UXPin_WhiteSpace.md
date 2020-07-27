@@ -36,14 +36,16 @@ Pense no **espaço passivo** como sendo o mínimo.
 Vamos ver como o espaçamento passivo e o ativo ajudam a criar balanço no espaço negativo. 
 
 ```
-       LINK 1               LINK 2               LINK 3               LINK 4               LINK 5               LINK 6
+       Página inicial               Produtos               Promoção do dia               Em alta              
 ```
 
 Imagine o quão frustante seria navegar nessa barra de navegação se os links estivessem muito juntos.
 
 ```
-       LINK 1 LINK 2 LINK 3 LINK 4 LINK 5 LINK 6
+       Página inicial Produtos Promoção do dia Em alta              
 ```
+
+> comentário: o espaço deixa melhor a visualização de cada item e não atrapalha na leitura do pŕoximo item
 
 <br>
 
