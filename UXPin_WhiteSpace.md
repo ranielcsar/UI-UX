@@ -41,6 +41,10 @@ Vamos ver como o espaçamento passivo e o ativo ajudam a criar balanço no espa�
 
 Imagine o quão frustante seria navegar nessa barra de navegação se os links estivessem muito juntos.
 
+```
+       LINK 1 LINK 2 LINK 3 LINK 4 LINK 5 LINK 6
+```
+
 <br>
 
 ### Active space (Espaçamento ativo)
